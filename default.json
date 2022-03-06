@@ -15,6 +15,12 @@
         "webpack",
         "-loader$"
       ]
+    },
+    {
+      "groupName": "ESLint family",
+      "matchPackagePatterns": [
+        "eslint"
+      ]
     }
   ]
 }
